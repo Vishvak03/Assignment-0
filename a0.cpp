@@ -4,7 +4,6 @@
 
 int main() {
     std::cout << "..." << std::endl;
-    // Instead of '...', write "Hello World" within quotes, something like:
-    // std::cout << "Hello World" << std::endl;
+    // Instead of '...', write "Hello World" within quotes
     return 0;
 }
