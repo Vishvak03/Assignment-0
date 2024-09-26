@@ -15,4 +15,4 @@ run: test0.out
 # on Windows, use `del` instead of `rm`
 
 clean:
-	rm *.out 
+	del *.out 
